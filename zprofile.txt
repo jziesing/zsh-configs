@@ -1,0 +1,2 @@
+export PATH=$PATH:/Applications/Postgres.app/Contents/Versions/latest/bin
+# export PATH="/Users/Jack/Library/Python/2.7/bin/instagram-scraper:$PATH"
