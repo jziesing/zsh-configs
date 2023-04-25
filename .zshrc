@@ -30,7 +30,7 @@
 # Doing so makes sure the right people get your patches for review and
 # possibly inclusion.
 
-export PATH="$PATH:/Users/Jack/development/flutter/bin"
+# export PATH="$PATH:/Users/Jack/development/flutter/bin"
 
 # zsh-refcard-tag documentation:
 #   You may notice strange looking comments in this file.
@@ -3703,7 +3703,7 @@ zrclocal
 # mode: sh
 # End:
 
-autoload -U +X bashcompinit && bashcompinit
-complete -o nospace -C /usr/local/bin/terraform terraform
-export PATH="/usr/local/opt/openssl@1.1/bin:$PATH"
-export PATH="/usr/local/opt/openssl@1.1/bin:$PATH"
+# autoload -U +X bashcompinit && bashcompinit
+# complete -o nospace -C /usr/local/bin/terraform terraform
+# export PATH="/usr/local/opt/openssl@1.1/bin:$PATH"
+# export PATH="/usr/local/opt/openssl@1.1/bin:$PATH"
